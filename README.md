@@ -45,8 +45,9 @@ Este exemplo é adaptado de [PyImageSearch](https://pyimagesearch.com/2021/04/05
   [Python for Beginners](https://opencv.org/university/python-for-beginners/?utm_source=ocv&utm_medium=midblog&utm_blog=OpenCV+Face+Detection%3A+Cascade+Classifier+vs.+YuNet),
   [TensorFlow Bootcamp](https://opencv.org/university/free-tensorflow-keras-course/?utm_source=ocv&utm_medium=midblog&utm_blog=OpenCV+Face+Detection%3A+Cascade+Classifier+vs.+YuNet)
 ### Extra
-  [geeksforgeeks](https://www.geeksforgeeks.org/opencv-python-tutorial/)
-  e [pythonprogramming.net](https://pythonprogramming.net/loading-images-python-opencv-tutorial/)
+  [geeksforgeeks](https://www.geeksforgeeks.org/opencv-python-tutorial/),
+  [pythonprogramming.net](https://pythonprogramming.net/loading-images-python-opencv-tutorial/),
+  [Tutorial de OpenCV em JAVA](https://opencv-java-tutorials.readthedocs.io/en/latest/06-face-detection-and-tracking.html)
 
 ## Contribua com a comunidade [OpenCV](https://github.com/opencv/opencv)
 "Since OpenCV is an open source initiative, all are welcome to make contributions to the library, documentation, and tutorials."
