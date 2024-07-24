@@ -42,7 +42,7 @@ Oficial
   [OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
 Extra
   [geeksforgeeks](https://www.geeksforgeeks.org/opencv-python-tutorial/)
-  [pythonprogramming.net](https://pythonprogramming.net/loading-images-python-opencv-tutorial/)
+  e [pythonprogramming.net](https://pythonprogramming.net/loading-images-python-opencv-tutorial/)
 
 ## Contribua com a comunidade [OpenCV](https://github.com/opencv/opencv)
 "Since OpenCV is an open source initiative, all are welcome to make contributions to the library, documentation, and tutorials."
