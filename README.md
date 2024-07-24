@@ -39,10 +39,10 @@ Este exemplo é adaptado de [PyImageSearch](https://pyimagesearch.com/2021/04/05
 
 ## Links importantes para aprender ainda mais sobre OpenCV
 ### Oficial
-  [OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
-  [Cascade Classifier vs. YuNet](https://opencv.org/blog/opencv-face-detection-cascade-classifier-vs-yunet/)
-  [OpenCV Bootcamp](https://opencv.org/university/free-opencv-course/?utm_source=ocv&utm_medium=midblog&utm_blog=OpenCV+Face+Detection%3A+Cascade+Classifier+vs.+YuNet)
-  [Python for Beginners](https://opencv.org/university/python-for-beginners/?utm_source=ocv&utm_medium=midblog&utm_blog=OpenCV+Face+Detection%3A+Cascade+Classifier+vs.+YuNet)
+  [OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html),
+  [Cascade Classifier vs. YuNet](https://opencv.org/blog/opencv-face-detection-cascade-classifier-vs-yunet/),
+  [OpenCV Bootcamp](https://opencv.org/university/free-opencv-course/?utm_source=ocv&utm_medium=midblog&utm_blog=OpenCV+Face+Detection%3A+Cascade+Classifier+vs.+YuNet),
+  [Python for Beginners](https://opencv.org/university/python-for-beginners/?utm_source=ocv&utm_medium=midblog&utm_blog=OpenCV+Face+Detection%3A+Cascade+Classifier+vs.+YuNet),
   [TensorFlow Bootcamp](https://opencv.org/university/free-tensorflow-keras-course/?utm_source=ocv&utm_medium=midblog&utm_blog=OpenCV+Face+Detection%3A+Cascade+Classifier+vs.+YuNet)
 ### Extra
   [geeksforgeeks](https://www.geeksforgeeks.org/opencv-python-tutorial/)
