@@ -37,5 +37,15 @@ Este exemplo é adaptado de [PyImageSearch](https://pyimagesearch.com/2021/04/05
 
 ![Exemplo de Detecção de Faces](https://b2633864.smushcdn.com/2633864/wp-content/uploads/2021/02/opencv_haar_cascade_face_detection_output02.jpg?lossy=2&strip=1&webp=1)
 
+## Links importantes para aprender ainda mais sobre OpenCV
+Oficial
+  [OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+Extra
+  [geeksforgeeks](https://www.geeksforgeeks.org/opencv-python-tutorial/)
+  [pythonprogramming.net](https://pythonprogramming.net/loading-images-python-opencv-tutorial/)
+
+## Contribua com a comunidade [OpenCV](https://github.com/opencv/opencv)
+"Since OpenCV is an open source initiative, all are welcome to make contributions to the library, documentation, and tutorials."
+
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
