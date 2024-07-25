@@ -2,7 +2,7 @@
 
 ## Descrição
 Este projeto utiliza o OpenCV para detectar faces e olhos em imagens e vídeos em tempo real. A detecção é feita usando classificadores em cascata treinados com algoritmos Haar.
-
+![Exemplo de Imagem](etapa_3/obj_poo8/imageSample.png)
 ## Pacotes para Instalação
 Optamos pela instalação do OpenCV-Python no Ubuntu devido à praticidade e à versão compacta de "Pre-Built binaries" disponíveis para essa linguagem.
 
