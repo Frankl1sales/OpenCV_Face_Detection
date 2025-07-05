@@ -24,7 +24,7 @@ Se esses arquivos não estiverem no diretório do repositório, encontre-os e ad
 ## face_and_eye_detection.py
 Este script detecta faces e olhos em tempo real usando a câmera do computador. Para sair da tela, pressione a tecla "ESC".
 
-### Exemplo de Uso
+### Exemplos de Uso
 Este exemplo é adaptado do tutorial de detecção de objetos do OpenCV: [Cascade Classifier Tutorial](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html).
 
 ![Exemplo de Detecção de Faces e Olhos](https://docs.opencv.org/3.4/Cascade_Classifier_Tutorial_Result_Haar.jpg)
